@@ -27,9 +27,15 @@ namespace _01_Calculator
 
             total = subtotal + tax;
 
-            label6.Text=Convert.ToString(subtotal);
-            label7.Text=Convert.ToString(tax);
-            label8.Text=Convert.ToString(total);
+            //label6.Text=Convert.ToString(subtotal);
+            //label7.Text=Convert.ToString(tax);
+            //label8.Text=Convert.ToString(total);
+            label6.Text = String.Format("{0:#,##0}‰~", subtotal);
+            label7.Text = String.Format("{0:#,##0}‰~", tax);
+            label8.Text = String.Format("{0:#,3#0}‰~", total);
+
+
         }
+
     }
 }

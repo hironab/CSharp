@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Y:\\git\\CSharp\\01_Calculator\\",
+  "WorkspaceRootPath": "D:\\Git\\CSharp\\01_Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E99D43F3-0F5F-40E7-818F-8A27C9499CAD}|01_Calculator\\01_Calculator.csproj|y:\\git\\csharp\\01_calculator\\01_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E99D43F3-0F5F-40E7-818F-8A27C9499CAD}|01_Calculator\\01_Calculator.csproj|d:\\git\\csharp\\01_calculator\\01_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E99D43F3-0F5F-40E7-818F-8A27C9499CAD}|01_Calculator\\01_Calculator.csproj|solutionrelative:01_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E99D43F3-0F5F-40E7-818F-8A27C9499CAD}|01_Calculator\\01_Calculator.csproj|y:\\git\\csharp\\01_calculator\\01_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E99D43F3-0F5F-40E7-818F-8A27C9499CAD}|01_Calculator\\01_Calculator.csproj|D:\\Git\\CSharp\\01_Calculator\\01_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E99D43F3-0F5F-40E7-818F-8A27C9499CAD}|01_Calculator\\01_Calculator.csproj|solutionrelative:01_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,21 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "Y:\\git\\CSharp\\01_Calculator\\01_Calculator\\Form1.cs",
+              "DocumentMoniker": "D:\\Git\\CSharp\\01_Calculator\\01_Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "01_Calculator\\Form1.cs",
-              "ToolTip": "Y:\\git\\CSharp\\01_Calculator\\01_Calculator\\Form1.cs",
+              "ToolTip": "D:\\Git\\CSharp\\01_Calculator\\01_Calculator\\Form1.cs",
               "RelativeToolTip": "01_Calculator\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T12:33:39.562Z",
               "EditorCaption": ""
@@ -41,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "Y:\\git\\CSharp\\01_Calculator\\01_Calculator\\Form1.cs",
+              "DocumentMoniker": "D:\\Git\\CSharp\\01_Calculator\\01_Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "01_Calculator\\Form1.cs",
-              "ToolTip": "Y:\\git\\CSharp\\01_Calculator\\01_Calculator\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "ToolTip": "D:\\Git\\CSharp\\01_Calculator\\01_Calculator\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "01_Calculator\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T11:53:37.952Z",
