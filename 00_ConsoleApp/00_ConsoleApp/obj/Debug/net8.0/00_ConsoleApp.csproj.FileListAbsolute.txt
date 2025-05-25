@@ -1,0 +1,14 @@
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\bin\Debug\net8.0\00_ConsoleApp.exe
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\bin\Debug\net8.0\00_ConsoleApp.deps.json
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\bin\Debug\net8.0\00_ConsoleApp.runtimeconfig.json
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\bin\Debug\net8.0\00_ConsoleApp.dll
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\bin\Debug\net8.0\00_ConsoleApp.pdb
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\obj\Debug\net8.0\00_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\obj\Debug\net8.0\00_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\obj\Debug\net8.0\00_ConsoleApp.AssemblyInfo.cs
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\obj\Debug\net8.0\00_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\obj\Debug\net8.0\00_ConsoleApp.dll
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\obj\Debug\net8.0\refint\00_ConsoleApp.dll
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\obj\Debug\net8.0\00_ConsoleApp.pdb
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\obj\Debug\net8.0\00_ConsoleApp.genruntimeconfig.cache
+C:\Users\hiro\source\repos\Study\00_ConsoleApp\00_ConsoleApp\obj\Debug\net8.0\ref\00_ConsoleApp.dll
