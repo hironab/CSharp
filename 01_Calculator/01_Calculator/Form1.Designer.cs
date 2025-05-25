@@ -140,11 +140,13 @@
             button1.TabIndex = 10;
             button1.Text = "計算実行";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.guitars;
             ClientSize = new Size(1210, 403);
             Controls.Add(button1);
             Controls.Add(textBox2);

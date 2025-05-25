@@ -1,0 +1,7 @@
+# bin,obj,.vsフォルダはいらない
+.vs/
+bin/
+obj/
+# csproj.userファイルはいらない
+*.csproj.user
+
